@@ -1,0 +1,9 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: Test Api for PayBiz
+            description: Test Api for PayBiz
+            version: 1.0.0
+    areas: # to filter documented areas
+        path_patterns:
+            - ^/api
